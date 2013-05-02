@@ -6,3 +6,4 @@ pattern = r'\[(.*)\]\((http[s]?://[\.a-zA-Z/]+)\)'
 match = re.match(pattern, text)
 if match:
     print '<a href="%s">%s</a>' % (match.group(2), match.group(1))
+
