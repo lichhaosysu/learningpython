@@ -1,9 +1,30 @@
-import re
-text = '[ClojureWerkz Clojure libraries](http://clojurewerkz.org)'
-pattern = r'\[(.*)\]\((http[s]?://[\.a-zA-Z/]+)\)'
-#self.addFilter(r'\[(.*)\]\((http[s]?://[\.a-zA-Z/]+)\)','markdownurl')
+from xml.sax.handler import ContentHandler
+from xml.sax import parse
 
-match = re.match(pattern, text)
-if match:
-    print '<a href="%s">%s</a>' % (match.group(2), match.group(1))
+class PageMaker(ContentHandler):
+    passthrough = False
+    def startElement(self, name, attrs):
+        if name == 'page':
+            self.passthrough = True
+            self.out = open(attrs['name'] + '.html', 'w')
+            self.out.write('<html><head>\n')
+            self.out.write('<title>%s</title>\n' % attrs['title'])
+            self.out.write('</head><body>\n')
+        elif self.passthrough:
+            self.out.write('<' + name)
+            for key, val in attrs.items():
+                self.out.write(' %s="%s"' % (key, val))
+            self.out.write('>')
+            
+    def endElement(self, name):
+        if name == 'page':
+            self.passthrough = False
+            self.out.write('\n</body></html>\n')
+            self.out.close()
+        elif self.passthrough:
+            self.out.write('</%s>' % name)
+            
+    def characters(self, chars):
+        if self.passthrough: self.out.write(chars)
 
+parse('website.xml', PageMaker())

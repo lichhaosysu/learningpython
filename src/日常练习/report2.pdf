@@ -1,0 +1,107 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+4 0 obj
+% Page dictionary
+<< /Contents 8 0 R
+ /MediaBox [ 0
+ 0
+ 400
+ 200 ]
+ /Parent 7 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R5': class PDFCatalog 
+5 0 obj
+% Document Root
+<< /Outlines 9 0 R
+ /PageMode /UseNone
+ /Pages 7 0 R
+ /Type /Catalog >>
+endobj
+% 'R6': class PDFInfo 
+6 0 obj
+<< /Author (anonymous)
+ /CreationDate (D:20130506220028-08'00')
+ /Creator (ReportLab PDF Library - www.reportlab.com)
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (unspecified)
+ /Title (Sunspots) >>
+endobj
+% 'R7': class PDFPages 
+7 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 4 0 R ]
+ /Type /Pages >>
+endobj
+% 'R8': class PDFStream 
+8 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 2811 >>
+stream
+Gau109ogDW%>O='om`nb+DjXhgI\P=]1@_cCu5dO&4e$XJ_`cmIGQqY.[fOhl!CeUTB3(FS2[kuV`J)q^QSQoQhT,)S#>T(hp@YPHMZB]3:QV5qs3RG`s9AA[GTm^BY0CSO;b;HnToM2rSlT3I.tOnrqYRb^V$/p>u/5@-ia/?n>AM2_8!/#;RC/h=R#\Nj$U3$rqP5s\NAF3]_gcjj/qeMhZ*=3S*Ru$ru]_^gDt[NHYN)"G@BJ*rVjt"5QA7-I=1gBrVjo+2@6chQ8.m?@TfJ@Cn+I7&A1*E=]_dJLK"=4:1Kf:p$-PfY1<7>-afD?>lqe6M/`6!P\ae*'qX]?HJDCl]Z9A/?L@$kR1&jo(O"cpb_>mr(OY9"C3GIVci0+&ph:V(^J]>C'Y\$IQG!L8pt[,[[332#KQZtQEDfIRB.d\aFnPTNW.Z!:q)J!2p#?<d.?/bGH1g10+*.@>d3dIHCpE\-TUk\W:&(,dSNYK;2#l:B2jp;Q4TF4/2jn$f4T>hU2jqFpZHsTMSn>L1B@;O1p@OOg`+jFh(:9?u49@q\+Xp>4bmcQO<+4E=1oY*IOA\qhO@q"[?FQ2m>b[rO97aVF,Ut8$0n`),1i+B7h85lX8RSSBj*@#,!'7*IUle9Q#;q57-JT9-[?TB^K._+=>,\0Dg0-l,DSD:2csl>02@=jl\?$C-g2dYKqf=?.?O(BZGPbl!;YY3g'K(i78VQWC$!Z]&UYu+!luK$2Rj'8'4>PE>%?"<T![i"XpQ[XWgJAPA#Ud(W^/&83h!dWd2mTE>'ei%rb@WOfTc?^=blgepjNJrs/?p_WpV\ulMQdMY_`DcGYn<IBaD$8P[8$"jNnqgE".GV%jQo0p6d'$+'pGtmUU=3soF2XXhEcl*EB19pJN2IdH>ErR8[d`I.4=5-q9:bHKS6HqZd"L8ZQ]gYQu/jk1h]imBq9#4Es%8EdAE?=U!D=*DH"do6`SC3d&*8:@V9JK(JT^d)52k*2;;(d64rj)At*PpKfU8J/gb&21dm&N>g-58eRh*5ai3Ud$PdM^E\ZNb9[/khjC0=q@q2t;EkGS/2oYKOZAXQ=OU1^*k%[p+25>$S2Kgs?AkADJfj)dj"+0S`[tgDCd3`>&6dq_UG(bu)k*ifK8FK_O>bh!$26iXP*6k@`AjP\fAR!#f,Z-/_fT8[19a!tP6KUp\3Uq#=\X?.1jX^\%</8f=j]'=(\_;;Yji"YI8,?/,3Dn%sdb)MS08-E_n@3R#iM+Ic01\7e6t%VpYC3>h>u&YseS&rnUW_?>64l\!F#eTLC<;&[-^PLp0LEV49eIf.PmXtWCb@)OfNHt79J.^@0l+0rcSU\Qa:hI@Jm?R7,KO[?0"[Q#Cf6?PAofg7)_;eHFu<.`KI,;mltXClEgkKoXsU0&Z<H\K#n,U'l9Y"9n9hu_!)(Z3I0a;j^@)9Y%BBqGE5T-Qjqhc?/uH\6Y9)TG_Ihh0`Cc"/r5*!7XYIKaKup:I526.U-GlYo?l5<R;W7lt7eX(#!S0a^L$/`.FoOD4[RV+FO:ESi:cH%K%dN_&_$a16ju21Plp0.E!O&)'\^^dgn=J@</U/H2Mn!Vi>A+qE.=T/BC+u4FlHr6,X,C93-"qV/$XqPZS\T/eTqJd@jC$TZdD[^PUM.2\UT<9F"/?60LebJ0%Wij8$:&^+$^!#d@!&(M[1ZZ?M6;i($XF]'(V<M$CU?XGf`c(dhs"MbBZV7U@+T5NG'5%4j(K8F\j4J!MWg$PCg?)O%WpOJ][6mni]rV9FJ8&7[1m!7lGupC"`puM,I>=YGBS+>.U*`BG4g*]P%eQ16<S+L6TVh?6(uH;Y3i$pfS(#91j?=5$\c*9N%B-0%@NZLSR#MRjDNi-Ku-U?/412bTQC39AS9W?f#b(d`Mi@?ZO8k8SumoVi(NY/F0Q+bhP/PiKeD;l#S!+J\pu;F`S./B/ef2sL1[,p7ki;Df5kf[Zn?Ho?LaP+U'i\*UBt2d!g%E9YqTGDJqoG3+CpWC[Rd-(-Pn6IM5]e%6>Eb!e;IQCTmC9UjFW@8=bF?-eZ5$+.6G+KMd3@!/9ISe_.-DXTaT5NN=L!FPWep\\ZeT+jiTZq@,i.W-9A\V)+VU==`VK^G?V\Dqj:`h$@NSK"'@k%>O:/C_AX;'jT*qDhf/W`?Du9K#$=Y>k]-Y3>.@Nj^`WhbG<Q"=`R]q&%59&*-6pnIY]Y3&q1YTdLoD>#0O\Vd@+bG165ToZ`om.*RHcMG,7ISeWkE0RK3qNE%YQQO7i;JX+Ui-QRG\0UgR2[t$rrh^,T,6k,,9rIK\bhL)e"i`]C[%NGQG40%YUO[k="Q"fN-W@_R?et@b?)E=pRL8`)cOr(of7)8I*+/fW/UJ&9\k56PsRL*;i,h8!`:i?RY-"6k=b&B:t`$W8ON5FRTYQ>eE@ir9=k*Rh^b`0[ujK8dE-C4D9.4l'hZ?/]7/.!AKHO[>_[T!EL?KU>c.i8nHI2^bc(Hd#M8_!O,mB.p7$IJ0?KW]'?p1$oO>-g,Fm!Yl/Ms!OdD3>l]N,kc=ss-GVYV7UdruTqnZ3#`E&g?\p2]SR;8^Ab$5@*LUBkq1[h%H#t3f?T=ih1i5=hE3Da=2K/,d(F+#<C$-9V&+3ZI/V%94Lr0;]!:)4BNl1#d0LTq1UCCK/lb7E\7p,g#Fg=g^a2\K?j948sZi^^l1_Q_:r36k9K%+MrEXL+cBO5p2R!fTSm.)Znd'$]eEOF(oEG(MCc%B$O\`?gjT")[O>ce*-g]977r$Q\%3pT/kr4'iAE=keAiE+'\DPZI04-G!us7FW-f9FnI_uB_\!mlA~>endstream
+endobj
+% 'R9': class PDFOutlines 
+9 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+xref
+0 10
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000553 00000 n
+0000000820 00000 n
+0000000954 00000 n
+0000001236 00000 n
+0000001341 00000 n
+0000004295 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(6D\233DkfA\267\244G\014b\340\035\301\211) (6D\233DkfA\267\244G\014b\340\035\301\211)] 
+
+ /Info 6 0 R
+ /Root 5 0 R
+ /Size 10 >>
+startxref
+4346
+%%EOF
